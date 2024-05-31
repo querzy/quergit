@@ -1,0 +1,11 @@
+{
+  "name": "your-repo",
+  "version": "1.0.0",
+  "dependencies": {
+    "dependency1": "^1.0.0",
+    "dependency2": "^2.0.0"
+  },
+  "scripts": {
+    "your-script": "node your-script.js"
+  }
+}
